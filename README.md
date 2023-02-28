@@ -1,8 +1,5 @@
 # Team-Profile Generator
 
-#### License
-  None 
-
 ## Description
   This node.js application will prompt questions about team members, recording user input and saving them to a HTML to display the relevant information for each different type of team member. There is a menu for you to add as many, or as little, team members as you like. 
   
