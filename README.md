@@ -1,3 +1,4 @@
+
 # Team-Profile Generator
 
 ## Description
@@ -14,7 +15,9 @@
 ## Usage
   Answer questions prompted, and select the relevant menu option until you are ready to finialise your team, in which you pick menu option 3, and that will generate your final team profile.
 
-  Here is a link to the deployed webpage, <n/a>
+![Screenshot (66)](https://user-images.githubusercontent.com/116085080/222005709-afe7c05c-cc13-4014-ac03-30005917b2ef.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/116085080/222005716-6e576a49-8ab8-42b2-8ed1-edd724afbf79.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/116085080/222005718-027e7175-d06d-4e4f-9fd5-13fb82bbac9a.png)
   
  ## Installation
  git clone this repo. Install node.js locally, and install the inquirer package, with npm init, and npm install inquirer@6.5.0. Use the intergrated terminal in VS code to build your team.
